@@ -42,6 +42,6 @@ I specialize in Python, Flask, Google Sheets API, Pandas, NumPy, Scikit-learn, M
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/nationalist313/  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nationalist313)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nationalist313) 
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_URL)
