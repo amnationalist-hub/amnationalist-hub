@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abdurrahman Muhammad Sani
+# Hi, I’m Abdurrahman Muhammad Sani
 ### AI Developer | Data Scientist | Automation Engineer | MSc Zoology (Parasitology)
 
 I build practical AI systems, machine learning models, and automation tools that solve real-world problems for businesses and researchers. My work spans:
@@ -37,11 +37,11 @@ I specialize in Python, Flask, Google Sheets API, Pandas, NumPy, Scikit-learn, M
 ---
 
 ### 📊 GitHub Stats
-![Abdurrahman Muhammad Sani's GitHub stats](https://github-readme-stats.vercel.app/api?username=nationalist313&show_icons=true&theme=radical)
+![Abdurrahman Muhammad Sani's GitHub stats](https://github-readme-stats.vercel.app/api?username=amnationalist-hub&show_icons=true&theme=radical)
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nationalist313/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nationalist313)  
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_URL)
