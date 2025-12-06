@@ -12,17 +12,17 @@ I specialize in Python, Flask, Google Sheets API, Pandas, NumPy, Scikit-learn, M
 
 ---
 
-### 🚀 Featured Projects
-- [💼 Smart Inventory Bot](YOUR_PROJECT_LINK) – Automates stock management with alerts, PDF/CSV reports, and optional voice commands  
-- [🤖 AI Agent Capstone Project](YOUR_PROJECT_LINK) – Planning and reasoning agent for structured tasks  
-- [✈️ Airline Passenger Satisfaction Prediction (XGBoost)](YOUR_PROJECT_LINK)  
-- [📚 Book Recommendation System (Collaborative Filtering)](YOUR_PROJECT_LINK)  
-- [📊 Marketing Sales Prediction (Multiple Linear Regression)](YOUR_PROJECT_LINK)  
-- [🧪 MSc Parasitology Research](YOUR_PROJECT_LINK) – Analyzing cercaricidal activity of *Eucalyptus camaldulensis*
+### Featured Projects
+- [Smart Inventory Bot](YOUR_PROJECT_LINK) – Automates stock management with alerts, PDF/CSV reports, and optional voice commands  
+- [AI Agent Capstone Project](YOUR_PROJECT_LINK) – Planning and reasoning agent for structured tasks  
+- [Airline Passenger Satisfaction Prediction (XGBoost)](YOUR_PROJECT_LINK)  
+- [Book Recommendation System (Collaborative Filtering)](YOUR_PROJECT_LINK)  
+- [Marketing Sales Prediction (Multiple Linear Regression)](YOUR_PROJECT_LINK)  
+- [MSc Parasitology Research](YOUR_PROJECT_LINK) – Analyzing cercaricidal activity of *Eucalyptus camaldulensis*
 
 ---
 
-### 🔧 Skills
+### Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/) 
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
@@ -36,7 +36,7 @@ I specialize in Python, Flask, Google Sheets API, Pandas, NumPy, Scikit-learn, M
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Abdurrahman Muhammad Sani's GitHub stats](https://github-readme-stats.vercel.app/api?username=amnationalist-hub&show_icons=true&theme=radical)
 
 ---
