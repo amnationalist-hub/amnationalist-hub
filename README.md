@@ -14,7 +14,7 @@ I specialize in Python, Flask, Google Sheets API, Pandas, NumPy, Scikit-learn, M
 
 ### Featured Projects
 - [Smart Inventory Bot](YOUR_PROJECT_LINK) – Automates stock management with alerts, PDF/CSV reports, and optional voice commands  
-- [AI Agent Capstone Project](YOUR_PROJECT_LINK) – Planning and reasoning agent for structured tasks  
+- [AI Agent Capstone Project](https://github.com/amnationalist-hub/AI-Agents-Capstone) – Planning and reasoning agent for structured tasks  
 - [Airline Passenger Satisfaction Prediction (XGBoost)](YOUR_PROJECT_LINK)  
 - [Book Recommendation System (Collaborative Filtering)](YOUR_PROJECT_LINK)  
 - [Marketing Sales Prediction (Multiple Linear Regression)](YOUR_PROJECT_LINK)  
