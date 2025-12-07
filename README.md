@@ -17,7 +17,8 @@ I specialize in Python, Flask, Google Sheets API, Pandas, NumPy, Scikit-learn, M
 - [AI Agent Capstone Project](https://github.com/amnationalist-hub/AI-Agents-Capstone) – Planning and reasoning agent for structured tasks 
 - [Airline Passenger Satisfaction Prediction (XGBoost)](https://colab.research.google.com/drive/1RUHUhLVQZbSw2r85uY0WcG3dfonoSuTW#scrollTo=XhI_m0ydzI35)  
 - [Book Recommendation System (Collaborative Filtering)](YOUR_PROJECT_LINK)  
-- [Marketing Sales Prediction (Multiple Linear Regression)](YOUR_PROJECT_LINK)  
+- [Marketing Sales Prediction (Multiple Linear Regression)](https://colab.research.google.com/drive/1vP2aeSg-KqODZgaHxKJidaGy4nDQjful#scrollTo=dc8fe134)
+- [Text Classification Model for News Categorization].(https://colab.research.google.com/drive/1cIwITFHN8Hvczo3r8cB9qLRHataDeARG)
 - [MSc Parasitology Research](YOUR_PROJECT_LINK) – Analyzing cercaricidal activity of *Eucalyptus camaldulensis*
 
 ---
