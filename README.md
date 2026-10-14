@@ -13,6 +13,7 @@ I specialize in Python, Flask, Google Sheets API, Pandas, NumPy, Scikit-learn, M
 ---
 
 ### Featured Projects
+- [Mum Muyassir's Sew Fashion & Fabrics](https://github.com/amnationalist-hub/Mum-Muyassir-s-Sew-Fashion-Fabrics) - A fashion and fabrics project showcasing practical application development and digital solutions for the fashion business.
 - [AI Agent Capstone Project](https://github.com/amnationalist-hub/AI-Agents-Capstone) – Planning and reasoning agent for structured tasks 
 - [Airline Passenger Satisfaction Prediction (XGBoost)](https://colab.research.google.com/drive/1RUHUhLVQZbSw2r85uY0WcG3dfonoSuTW#scrollTo=XhI_m0ydzI35)  
 - [Marketing Sales Prediction (Multiple Linear Regression)](https://colab.research.google.com/drive/1vP2aeSg-KqODZgaHxKJidaGy4nDQjful#scrollTo=dc8fe134)
